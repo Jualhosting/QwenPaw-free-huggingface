@@ -1,0 +1,3 @@
+qwenpaw
+supabase
+psycopg2-binary
